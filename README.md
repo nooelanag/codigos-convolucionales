@@ -36,7 +36,7 @@ The system allows you to:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/dalouc/codigos-convolucionales.git
+git clone https://github.com/nooelanag/codigos-convolucionales.git
 cd codigos-convolucionales
 ```
 
