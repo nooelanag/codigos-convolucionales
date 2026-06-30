@@ -8,7 +8,7 @@ def kalman_filter(y, A, B, sigma_u, sigma_v):
 
     Modelo:
         x[k+1] = A * x[k] + u[k],    u[k] ~ N(0, sigma_u^2 * I)
-        y[k]   = B * x[k] + v[k],     v[k] ~ N(0, sigma_v^2 * I)
+        y[k]   = B * x[k] + v[k],    v[k] ~ N(0, sigma_v^2 * I)
 
     Parameters
     ----------
